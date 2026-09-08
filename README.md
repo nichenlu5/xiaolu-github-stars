@@ -3,7 +3,7 @@
 自动同步 GitHub 用户 [nichenlu5](https://github.com/nichenlu5) 的公开 Star 收藏，生成结构化 JSON，便于其他工具和 AI 读取与分析。
 
 - 当前收藏总数：**89**
-- 数据最后更新时间（UTC）：**2026-09-07T09:36:06Z**
+- 数据最后更新时间（UTC）：**2026-09-08T07:18:09Z**
 - 数据文件：[`data/stars.json`](data/stars.json)
 
 ## 最近 Star 的项目
@@ -26,10 +26,10 @@
 | 名称 | 数量 |
 | --- | ---: |
 | Python | 21 |
-| TypeScript | 16 |
+| TypeScript | 17 |
 | Jupyter Notebook | 10 |
 | C | 3 |
-| JavaScript | 3 |
+| JavaScript | 2 |
 | HTML | 2 |
 | Rust | 2 |
 | CSS | 2 |
