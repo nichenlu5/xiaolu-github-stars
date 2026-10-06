@@ -2,64 +2,64 @@
 
 自动同步 GitHub 用户 [nichenlu5](https://github.com/nichenlu5) 的公开 Star 收藏，生成结构化 JSON，便于其他工具和 AI 读取与分析。
 
-- 当前收藏总数：**104**
-- 数据最后更新时间（UTC）：**2026-10-05T09:13:21Z**
+- 当前收藏总数：**124**
+- 数据最后更新时间（UTC）：**2026-10-06T09:05:54Z**
 - 数据文件：[`data/stars.json`](data/stars.json)
 
 ## 最近 Star 的项目
 
 | 仓库 | 描述 | Star 时间 |
 | --- | --- | --- |
-| [Sens-Wear/python-sdk](https://github.com/Sens-Wear/python-sdk) | Python SDK for connecting to SensWear hardware over BLE. | 2026-10-05T07:13:34Z |
-| [Sens-Wear/hardware](https://github.com/Sens-Wear/hardware) |  | 2026-10-05T07:13:22Z |
-| [Sens-Wear/firmware](https://github.com/Sens-Wear/firmware) | Firmware of the Sens Wear wearable platform. | 2026-10-05T07:13:08Z |
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | 2026-10-05T07:10:03Z |
-| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning | 2026-10-05T07:09:47Z |
-| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | Standard Open Arm 100 | 2026-10-05T07:09:29Z |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | 2026-10-05T07:07:57Z |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | 2026-10-05T07:07:42Z |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. | 2026-10-05T07:07:25Z |
-| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 2026-09-30T11:32:58Z |
+| [yanirs/established-remote](https://github.com/yanirs/established-remote) | A list of established remote companies | 2026-10-06T02:19:50Z |
+| [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) | Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more! | 2026-10-06T02:19:43Z |
+| [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 收集整理远程工作相关的资料 | 2026-10-06T02:19:37Z |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies | 2026-10-06T02:19:30Z |
+| [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows for image generation, video generation and filmmaking, with a canvas-based approach similar to LibTV and TapNow. | 2026-10-06T02:18:21Z |
+| [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video" | 2026-10-06T02:18:15Z |
+| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) |  | 2026-10-06T02:18:03Z |
+| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | 2026-10-06T02:17:51Z |
+| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。 | 2026-10-06T02:17:44Z |
+| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-10-06T02:17:37Z |
 
 ## 常见编程语言
 
 | 名称 | 数量 |
 | --- | ---: |
-| Python | 25 |
-| TypeScript | 19 |
+| Python | 30 |
+| TypeScript | 22 |
 | Jupyter Notebook | 11 |
+| JavaScript | 5 |
 | HTML | 4 |
 | C | 4 |
-| JavaScript | 4 |
-| Go | 2 |
+| Vue | 3 |
+| Go | 3 |
+| PHP | 3 |
+| MDX | 2 |
 | Rust | 2 |
 | CSS | 2 |
-| Java | 1 |
-| Vue | 1 |
+| Ruby | 1 |
 | VHDL | 1 |
-| PHP | 1 |
-| MDX | 1 |
 | Jinja | 1 |
 
 ## 常见 Topics
 
 | 名称 | 数量 |
 | --- | ---: |
-| ai | 21 |
-| llm | 17 |
-| chatgpt | 14 |
+| ai | 23 |
+| llm | 19 |
+| python | 15 |
+| chatgpt | 15 |
 | awesome | 14 |
 | machine-learning | 13 |
-| python | 13 |
-| ai-agents | 11 |
+| ai-agents | 12 |
 | openai | 11 |
 | prompt-engineering | 10 |
 | awesome-list | 10 |
 | deep-learning | 9 |
 | artificial-intelligence | 8 |
+| open-source | 7 |
 | agent | 7 |
 | mcp | 7 |
-| gpt | 7 |
 
 ## 本地同步
 
