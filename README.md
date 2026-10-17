@@ -2,14 +2,15 @@
 
 自动同步 GitHub 用户 [nichenlu5](https://github.com/nichenlu5) 的公开 Star 收藏，生成结构化 JSON，便于其他工具和 AI 读取与分析。
 
-- 当前收藏总数：**124**
-- 数据最后更新时间（UTC）：**2026-10-16T07:19:02Z**
+- 当前收藏总数：**125**
+- 数据最后更新时间（UTC）：**2026-10-17T07:02:23Z**
 - 数据文件：[`data/stars.json`](data/stars.json)
 
 ## 最近 Star 的项目
 
 | 仓库 | 描述 | Star 时间 |
 | --- | --- | --- |
+| [pengsida/learning_research](https://github.com/pengsida/learning_research) | 本人的科研经验 | 2026-10-17T06:27:59Z |
 | [yanirs/established-remote](https://github.com/yanirs/established-remote) | A list of established remote companies | 2026-10-06T02:19:50Z |
 | [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) | Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more! | 2026-10-06T02:19:43Z |
 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 收集整理远程工作相关的资料 | 2026-10-06T02:19:37Z |
@@ -19,7 +20,6 @@
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) |  | 2026-10-06T02:18:03Z |
 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | 2026-10-06T02:17:51Z |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。 | 2026-10-06T02:17:44Z |
-| [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 2026-10-06T02:17:37Z |
 
 ## 常见编程语言
 
