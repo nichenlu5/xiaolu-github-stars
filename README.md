@@ -3,7 +3,7 @@
 自动同步 GitHub 用户 [nichenlu5](https://github.com/nichenlu5) 的公开 Star 收藏，生成结构化 JSON，便于其他工具和 AI 读取与分析。
 
 - 当前收藏总数：**128**
-- 数据最后更新时间（UTC）：**2026-10-28T08:42:33Z**
+- 数据最后更新时间（UTC）：**2026-10-29T08:38:22Z**
 - 数据文件：[`data/stars.json`](data/stars.json)
 
 ## 最近 Star 的项目
@@ -11,7 +11,7 @@
 | 仓库 | 描述 | Star 时间 |
 | --- | --- | --- |
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | WorkBuddy、CodeBuddy  账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。 | 2026-10-26T08:13:03Z |
-| [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 | 2026-10-23T14:52:01Z |
+| [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。https://x.com/QloveDudu | 2026-10-23T14:52:01Z |
 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | 2026-10-23T14:50:53Z |
 | [pengsida/learning_research](https://github.com/pengsida/learning_research) | 本人的科研经验 | 2026-10-17T06:27:59Z |
 | [yanirs/established-remote](https://github.com/yanirs/established-remote) | A list of established remote companies | 2026-10-06T02:19:50Z |
